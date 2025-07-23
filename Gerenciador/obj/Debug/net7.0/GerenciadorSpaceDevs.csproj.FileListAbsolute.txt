@@ -1,0 +1,15 @@
+C:\Users\renan.kirsch\source\repos\GerenciadorSpaceDevs\GerenciadorSpaceDevs\bin\Debug\net7.0\GerenciadorSpaceDevs.exe
+C:\Users\renan.kirsch\source\repos\GerenciadorSpaceDevs\GerenciadorSpaceDevs\bin\Debug\net7.0\GerenciadorSpaceDevs.deps.json
+C:\Users\renan.kirsch\source\repos\GerenciadorSpaceDevs\GerenciadorSpaceDevs\bin\Debug\net7.0\GerenciadorSpaceDevs.runtimeconfig.json
+C:\Users\renan.kirsch\source\repos\GerenciadorSpaceDevs\GerenciadorSpaceDevs\bin\Debug\net7.0\GerenciadorSpaceDevs.dll
+C:\Users\renan.kirsch\source\repos\GerenciadorSpaceDevs\GerenciadorSpaceDevs\bin\Debug\net7.0\GerenciadorSpaceDevs.pdb
+C:\Users\renan.kirsch\source\repos\GerenciadorSpaceDevs\GerenciadorSpaceDevs\obj\Debug\net7.0\GerenciadorSpaceDevs.csproj.AssemblyReference.cache
+C:\Users\renan.kirsch\source\repos\GerenciadorSpaceDevs\GerenciadorSpaceDevs\obj\Debug\net7.0\GerenciadorSpaceDevs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renan.kirsch\source\repos\GerenciadorSpaceDevs\GerenciadorSpaceDevs\obj\Debug\net7.0\GerenciadorSpaceDevs.AssemblyInfoInputs.cache
+C:\Users\renan.kirsch\source\repos\GerenciadorSpaceDevs\GerenciadorSpaceDevs\obj\Debug\net7.0\GerenciadorSpaceDevs.AssemblyInfo.cs
+C:\Users\renan.kirsch\source\repos\GerenciadorSpaceDevs\GerenciadorSpaceDevs\obj\Debug\net7.0\GerenciadorSpaceDevs.csproj.CoreCompileInputs.cache
+C:\Users\renan.kirsch\source\repos\GerenciadorSpaceDevs\GerenciadorSpaceDevs\obj\Debug\net7.0\GerenciadorSpaceDevs.dll
+C:\Users\renan.kirsch\source\repos\GerenciadorSpaceDevs\GerenciadorSpaceDevs\obj\Debug\net7.0\refint\GerenciadorSpaceDevs.dll
+C:\Users\renan.kirsch\source\repos\GerenciadorSpaceDevs\GerenciadorSpaceDevs\obj\Debug\net7.0\GerenciadorSpaceDevs.pdb
+C:\Users\renan.kirsch\source\repos\GerenciadorSpaceDevs\GerenciadorSpaceDevs\obj\Debug\net7.0\GerenciadorSpaceDevs.genruntimeconfig.cache
+C:\Users\renan.kirsch\source\repos\GerenciadorSpaceDevs\GerenciadorSpaceDevs\obj\Debug\net7.0\ref\GerenciadorSpaceDevs.dll
